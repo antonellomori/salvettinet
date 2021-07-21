@@ -1,0 +1,48 @@
+<newsDocument>
+	<docid>52882</docid>
+	<repository>Archivio di Stato di Firenze</repository>
+	<collection>Mediceo del principato</collection>
+	<volume>4201</volume>
+	<newsHeader>
+		<hub>London</hub>
+		<date>03/05/1641</date>
+		<transc>Inserti di Londra de 3 di Maggio 1641</transc>
+	</newsHeader>
+	<newsFrom>
+		<from>Palace of Westminster</from>
+		<transc>Siando Hoggi il Venerdì santo poco si può scrivere. Si dirà solamente come la Camera Inferiore del Parlamento  diffidando della Superiore de Titolati, condanni il Vice Re d'Irlanda [Wentworth, Thomas (Earl of Stafford)] per via di Decreto per Criminale di lesa Maestà, et per tale di dovere souffrire conforme alle Leggi del Regno.   Questo Decreto deve prima pasare per le mani de Titolari, et in ultimo havuto il pacet del Re, altramente non porle eseguirsi. Si crede che i Titolari vi andranno con molta circumspezione, si per il lor proprio interesse, come per la diffidenza che la Camera Inferiore ha havuto di loro nel havere fatto un simile Decreto, mentre la causa era in lor' mani, et sul punto di finirla.  Per il Re pare che assolutamente si possa credere che non sia mai per prestarvi il suo consenso se non tiratorici per i capelli ben volutamente. Ogni uno sta con ansietà grande di vedere dove andrà a parare questo meglio, fatto hoggi dalla fazione de puritani il più grande del Regnopiaccia a Dio che tutto finisca con quiete vedendosi gli humori troppo preparati et disposti alla confusione.   Un poco di discordia che nascesse fra medesimi Parlamentarij accomoderebbe tutto, perchè all'hora il Regno si disingrannerebbe, et vedrebbe che questo che i lor Deputati agitano, è , tutta fazione, oltre che il Re verrebbe a ripigliare la sua autorità.</transc>
+		<newsPeople>Thomas Wentworth</newsPeople>
+		<newsPeople>English Parliament</newsPeople>
+		<newsTopic>Politics</newsTopic>
+		<wordCount>count</wordCount>
+		<position>1</position>
+	</newsFrom>
+	<newsFrom>
+		<from date="30/04/1641">London</from>
+		<transc>Arrivò martedì passato in questa Città il giovane Principe di Orange [Willem II van Oranje-Nassau] benissimo accompagnato. Vi fu ricevuto honestamentissimamente da questa nobiltà et condutto direttamente alla Corte a fare riverenza a lor Maestà [Charles I Stuart] dalla quali fu ricevuto con dimostratione di grandissimo affetto. Di la andò subito al parco di San Jacopo dalla Maestà della Regina madre [Maria de' Medici-de Bourbon], con la quale passò ossequiosissimo complimento, et fu dalla Maestà sua ricevuto con molta affabilità et cortesia. Viene alloggiato nel Palazzo della Corte di [propose reading :Arundox] Gran maresciallo, et trattato in tutto et per tutto come Principe, et Genero di Lor Maestà.</transc>
+		<newsPeople>Williem II van Oranje-Nassau</newsPeople>
+		<newsPeople>Charles I Stuart</newsPeople>
+		<newsPeople>Maria de'Medici-de Bourbon</newsPeople>
+		<newsTopic>Diplomacy</newsTopic>
+		<newsTopic>Dinasty</newsTopic>
+		<newsTopic>Movement</newsTopic>
+		<wordCount>count</wordCount>
+		<position>2</position>
+	</newsFrom>
+	<newsFrom>
+		<from>London</from>
+		<transc>Gli ambasciatori di Portugallo domandano che gli sia apprestato Commissari pretendono di volere proporre leghe et altro per l'estabilimento del Commerzio.</transc>
+		<newsTopic>Diplomacy</newsTopic>
+		<newsTopic>Commerce</newsTopic>
+		<wordCount>count</wordCount>
+		<position>3</position>
+	</newsFrom>
+	<newsFrom>
+		<from>London</from>
+		<transc>20 fatte di peste sono morti questa settimana 20</transc>
+		<newsTopic>Health</newsTopic>
+		<wordCount>count</wordCount>
+		<position>4</position>
+	</newsFrom>
+	<writtenPagesNo>3</writtenPagesNo>
+</newsDocument>

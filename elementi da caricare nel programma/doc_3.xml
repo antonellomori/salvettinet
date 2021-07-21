@@ -1,0 +1,83 @@
+<newsDocument>
+	<docid>52479</docid>
+	<repository>Archivio di Stato di Firenze</repository>
+	<collection>Mediceo del Principato</collection>
+	<volume>261</volume>
+	<newsHeader>
+		<newsHeader>
+			<hub>London</hub>
+			<date>16/09/1641</date>
+			<transc>Inserto di Londra de 16 di Agosto 1641</transc>
+		</newsHeader>
+		<newsFrom>
+			<from>Palace of Westminster</from>
+			<transc>Tutto il pensiero de Parlamentarij, è, stato questa settimana impiegato ad impedire il viaggio del Re per Scozia allegando molte ragioni per distornarlo da simile resolutione fin ad hora la Maestà Sua [Stuart, Charles I] sta salda, di volere partire lunedì o martedì prossimo e ben vero che a lor comntemplatione si contenterà di lasciare uno, o, più personaggi con titolo di Custos Regni, che haveranno in questa sua assenza autorità quasi Regia, massime nel passare molti decreti Palamentari levare gente, et denari per supprimere sollevazioni che potrebbero occorrere. I personaggi non sono ancora nominati, ma è da credere, che pochissimi si correranno di questo impiego, tante il timore ch'havranno di non essere dindacati, se non camineranno direttamente in tutto et per tutto al senso del Parlamento. </transc>
+			<newsPeople>Charles I Stuart</newsPeople>
+			<newsPeople>English Parliament</newsPeople>
+			<newsTopic>Politics</newsTopic>
+			<newsTopic>Movement</newsTopic>
+			<wordCount></wordCount>
+			<position>1</position>
+		</newsFrom>
+		<newsFrom>
+			<from>London</from>
+			<transc>Il negozio de Vescovi continua sempre in agitazione con credenza che non sia per terminarsi fin al ritorno di Scozia di Sua Maestà come forse ne anche quello de Giudici del Regno.</transc>
+			<newsPeople>Charles I Stuart</newsPeople>
+			<newsPeople>English Parliament</newsPeople>
+			<newsTopic>Politics</newsTopic>
+			<newsTopic>Religion</newsTopic>
+			<newsTopic>Movement</newsTopic>
+			<wordCount></wordCount>
+			<position>2</position>
+		</newsFrom>
+		<newsFrom>
+			<from date="16/09/1641">London</from>
+			<from date="29/09/1641">Scotland</from>
+			<transc>Il disarmamento delle due Armate viene hoggi molto desiderato avanti la partenza del Re. Credono di poterlo fare, havendo intimato alla scozzese di marciare verso Scozia alli 29 di questo mese, ma malamente, vorrano ubbidire, se prima non venghino sodisfatti di quella somma di denari che li fu promessa la quale non se li potrà mandare hora e si preseto stante le diffiultà che hanno nel riscuotere l'ultima impositione di tanto per testa.</transc>
+			<newsPeople>Charles I Stuart</newsPeople>
+			<newsTopic>Military</newsTopic>
+			<newsTopic>Politics</newsTopic>
+			<newsTopic>Movement</newsTopic>
+			<wordCount></wordCount>
+			<position>3</position>
+		</newsFrom>
+		<newsFrom>
+			<from>London</from>
+			<transc>Il Viaggio in Olanda della Regina [Bourbon-Stuart, Henriette-Marie de] è, andato a monte con molto contento del Parlamento. Sua Maestà si ritirerà in assenza del Re, fuori a qualche villa regia per aspettarvi il suo ritorno, massime hora che la peste, comincia ad arrivare alli centinaia.</transc>
+			<newsPeople>Charles I Stuart</newsPeople>
+			<newsPeople>Henriette-Marie de Bourbon-Stuart</newsPeople>
+			<newsTopic>Movement</newsTopic>
+			<newsTopic>Dinasty</newsTopic>
+			<newsTopic>Health</newsTopic>
+			<wordCount></wordCount>
+			<position>4</position>
+		</newsFrom>
+		<newsFrom>
+			<from date="12/09/1641">London</from>
+			<from>Koln</from>
+			<transc>La Maestà della Regina madre [Medici-de Bourbon, Maria de'] doveva partire lunedì passato per la volta del mare ma sia per indisposizione, o, perchè non gli veniva dato il denaro promessoli in tempo, sia dilatando la sua partenza di giorno in giorno. L'elettore, e, magistrato di Colonia hanno con lor lettere assigurato sua Maestà come vi sarà ricevuta et trattata con tutto l'ossequio dovuto ad una tanta gran Regina, et perciò che venga pure sempre che vuole.</transc>
+			<newsPeople>Maria de'Medici-de Bourbon</newsPeople>
+			<newsTopic>Movement</newsTopic>
+			<newsTopic>Dinasty</newsTopic>
+			<wordCount></wordCount>
+			<position>5</position>
+		</newsFrom>
+		<newsFrom>
+			<from date="14/09/1641">London</from>
+			<transc>Al Signor Ambasciatore Veneto non hanno reso il suo cappellano ma a sua contemplazione ha il Re concessogli il suo perdure della vita, et promessoli anche persto la restituzione del sacerdote.  Nel mentre havendo il Re voluto consolare l'Ambasciatore vuole mercoledì passato darli una pubblica audienza, et mandarlo a levare a casa dal Conte di Warwiche [Rich, Robert (Second Earl of Warwick)] consigliere di stato con la carrozza Regia. Formalità procurata dal Ambasciatore per ricuprire in parete et in apparenza l'affronto</transc>
+			<newsPeople>Charles I Stuart</newsPeople>
+			<newsPeople>Robert Rich</newsPeople>
+			<newsTopic>Diplomacy</newsTopic>
+			<newsTopic>Politics</newsTopic>
+			<wordCount></wordCount>
+			<position>6</position>
+		</newsFrom>
+		<newsFrom>
+			<from>London</from>
+			<transc>Il numero de morti di contagio di questa settimana è 209</transc>
+			<newsTopic>Health</newsTopic>
+			<wordCount></wordCount>
+			<position>7</position>
+		</newsFrom>
+	</newsHeader>
+</newsDocument>
